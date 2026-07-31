@@ -1,105 +1,441 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ✦  ANIMATED HEADER BANNER  ✦                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img width="100%" src="./header.svg" alt="Shubhasmita Sahoo — Design Verification Engineer"/>
+
+<img width="100%" src="./header.svg" alt="Shubhasmita Sahoo — Design Verification Engineer · VLSI"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050010,25:0077b6,50:00b4d8,75:0077b6,100:050010&height=4"/>
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhasmita-sahoo-724185137"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/ShubhasmitaVLSI"><img src="https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=Profile%20views&color=6b7785&style=flat-square" alt="Profile views"/>
-</p>
+<!-- ─── SKILL ICON TICKER ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,c,cpp,bash&theme=dark&perline=8"/>
+</div>
+
+<br/>
+
+<!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=4.2%2B+Years+IP+%26+SoC+Design+Verification+%F0%9F%94%8C;Hardware+Emulation+%C2%B7+UVM+%C2%B7+SystemVerilog+%C2%B7+Coverage+Closure+%E2%9A%A1;Hybrid+Sim%E2%80%93Emu+%C2%B7+GLS-SDF+%C2%B7+UPF+%C2%B7+Regression+Automation+%F0%9F%92%A1;R%26D+Senior+Engineer+%40+Synopsys+%E2%80%A2+Seeking+Emulation-Focused+DV+%F0%9F%9A%80;ShubhasmitaVLSI+%E2%80%94+Verify.+Close+Coverage.+Ship+Silicon.+%F0%9F%8E%AF" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<!-- ─── BADGE ROW ───────────────────────────────────────────────────────── -->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=Profile+Views&color=0d47a1&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
+[![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
+[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Emulation%20%2F%20DV%20Roles-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:0d1117&height=2"/>
 
 ---
 
-## Professional Summary
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   VERIFICATION SNAPSHOT                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-Design Verification Engineer with **4.2+ years** of experience in IP- and SoC-level verification, with specialization in **hardware emulation**. Currently **R&amp;D Senior Engineer at Synopsys**, Bangalore.
+## 🔬 Verification Snapshot
 
-Core strengths include emulator-ready behavioral modeling, hybrid simulation–emulation flows, SystemVerilog/UVM methodology, coverage closure, GLS/UPF signoff, and regression automation. Seeking an **emulation-focused design verification** role.
-
----
-
-## Core Competencies
-
-| Domain | Capabilities |
-| :--- | :--- |
-| **Verification** | SystemVerilog, UVM, SVA, constrained-random & coverage-driven methodology, feature-based test planning |
-| **Emulation** | Emulator-ready BMOD, full-emulation and hybrid simulation–emulation flows, corner-case debug acceleration |
-| **RTL / GLS / Power** | RTL DV, GLS, PG-GLS, GLS-SDF, SDF back-annotation, UPF power-aware verification |
-| **Tools** | VCS, Verdi, Primetime, waveform debug, regression analysis |
-| **Automation** | Python, TCL, Makefiles, regression infrastructure |
-| **Protocols** | AMBA APB, AXI / AXI-Lite, JTAG |
-
----
-
-## Professional Experience
-
-### Synopsys — R&amp;D Senior Engineer, Design Verification
-**July 2023 – Present** · Bangalore
-
-- Enabled hardware emulation by extending IP behavioral models (BMOD) with emulator support for bring-up and large-scale validation
-- Executed full-emulation and hybrid simulation–emulation flows, accelerating corner-case debug versus long pure-simulation cycles
-- Developed feature-based verification plans mapping requirements to scenarios, tests, and coverage goals
-- Drove functional and code coverage closure through targeted testcases and reviewed exclusions
-- Performed GLS, PG-GLS, and GLS-SDF; debugged setup/hold violations, X-propagation, and SDF annotation issues
-- Conducted power-aware verification using UPF across RTL and GLS environments
-- Built and enhanced regression automation for RTL/GLS workflows using Python and Makefiles
-- Performed RTL verification of testchips (mixed-signal) using VCS/Verdi
-- Collaborated with design, backend, and silicon/validation teams through pre-tapeout closure; supported technical interviews
-
-### Asiczen Technology — Digital Design Engineer
-**April 2022 – July 2023** · Bangalore
-
-- Developed UVM testbench components (driver, monitor, scoreboard) and verified arbitration logic in SystemVerilog
-- Delivered UVM-based APB verification including sequences, protocol checking, and coverage-driven validation
-- Contributed to SoC verification with packet-based memory integrity and transaction-level checks
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  DESIGN VERIFICATION ENGINEER — SHUBHASMITA SAHOO           │
+│  handle      │  ShubhasmitaVLSI                             │
+├──────────────┬──────────────────────────────────────────────┤
+│  role        │  R&D Senior Engineer · Design Verification   │
+│  company     │  Synopsys · Bangalore                        │
+│  domain      │  Hardware Emulation · SoC / IP DV · VLSI     │
+│  experience  │  4.2+ years — RTL · GLS · hybrid emu flows   │
+│  methodology │  SystemVerilog · UVM · SVA · Coverage-driven │
+│  platforms   │  Emulation · VCS · Verdi · Primetime         │
+│  signoff     │  GLS-SDF · PG-GLS · UPF · Coverage closure   │
+├──────────────┼──────────────────────────────────────────────┤
+│  focus       │  Emulator-ready BMOD · corner-case debug     │
+│              │  Testchip DV · regression automation         │
+├──────────────┼──────────────────────────────────────────────┤
+│  education   │  M.Tech VLSI (KIIT) · B.Tech EIE (NIT R)     │
+│  seeking     │  Emulation-focused DV · Bangalore / Hybrid   │
+├──────────────┴──────────────────────────────────────────────┤
+│  ●  ACTIVE — Verifying · Emulating · Closing Coverage       │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Selected Highlights
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   VERIFICATION IMPACT                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-1. **Emulation enablement** — Emulator-ready BMODs and hybrid flows for faster corner-case debug  
-2. **Testchip verification** — RTL/IP integration, coverage closure, and GLS support  
-3. **Corner validation** — Verification across SS/TT/FF process corners  
-4. **GLS-SDF regression** — Stabilized signoff-oriented regression with automation for repeatability  
-5. **APB UVM verification** — Protocol checking and coverage-driven validation  
-6. **SoC memory checks** — Packet-based data-integrity validation at transaction level  
+## 📊 Verification Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%94%8C%20Emulation%20Enablement-00C853?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>Emulator-ready BMOD · bring-up · large-scale validation</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20Hybrid%20Sim%E2%80%93Emu-1565C0?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>Full + hybrid flows · faster corner-case debug</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20Coverage%20Closure-E65100?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>Feature plans · functional & code coverage</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GLS%20%2F%20SDF%20Signoff-6A1B9A?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>GLS · PG-GLS · GLS-SDF · setup/hold · X-prop</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="280">
+
+**🔬 VLSI Domain**
+<br/>
+`IP DV` · `SoC DV` · `Testchip`
+<br/>
+`Process corners` · `Mixed-signal` · `Tapeout`
+
+</td>
+<td align="center" width="280">
+
+**⚙️ Emulation & Debug**
+<br/>
+`BMOD` · `Hybrid flows` · `Bring-up`
+<br/>
+`Corner-case acceleration` · `Waveform debug`
+
+</td>
+<td align="center" width="280">
+
+**🎓 Cross-Team Closure**
+<br/>
+`Design · Backend · Silicon`
+<br/>
+`Tech interviews` · `Pre-tapeout signoff`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:0d1117&height=2"/>
 
 ---
 
-## Education
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   VERIFICATION PRINCIPLES                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-| Degree | Institution | Period |
-| :--- | :--- | :---: |
-| M.Tech — VLSI Design & Embedded Systems | KIIT University, Bhubaneswar | 2021 – 2023 |
-| B.Tech — Electronics & Instrumentation Engineering | NIT Rourkela | 2015 – 2019 |
+## 💡 Verification Principles
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=800&color=90E0EF&center=true&vCenter=true&width=900&height=40&lines=%22I+don%27t+just+run+regressions+%E2%80%94+I+own+coverage+closure+to+tape-out.%22" alt="Philosophy"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+⚡  Emulation is a force multiplier
+    Long sim cycles hide bugs.
+    Emulator-ready models unlock real debug speed.
+
+🔐  Coverage without a plan is noise
+    Map requirements → scenarios → tests.
+    Traceability beats ad-hoc test spam.
+
+📦  Models should survive the next tapeout
+    Emulator-ready from day one.
+    Reusable BMODs compound like interest.
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+🧪  Debug is a team sport
+    Design · backend · silicon in one loop.
+    Root-cause beats finger-pointing.
+
+📊  Metrics or it didn't close
+    Functional + code coverage reports.
+    Reviewed exclusions — not silent gaps.
+
+🔄  Automate → Regress → Debug → Repeat
+    Python + Makefiles until the flow
+    is boringly reliable.
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## GitHub Activity
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   DV TOOLCHAIN                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhasmitaVLSI&show_icons=true&theme=graywhite&hide_border=true&title_color=1f2933&icon_color=c9a227&text_color=3e4c59&bg_color=f7f8fa" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhasmitaVLSI&layout=compact&theme=graywhite&hide_border=true&title_color=1f2933&text_color=3e4c59&bg_color=f7f8fa" alt="Top languages"/>
-</p>
+## 🛠️ DV Toolchain & Methodologies
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhasmitaVLSI&bg_color=f7f8fa&color=1f2933&line=c9a227&point=c9a227&area_color=e8eef2&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
-</p>
+<div align="center">
+
+<table>
+<tr><td valign="top" width="50%">
+
+**Verification Methodology**
+<br/>
+`SystemVerilog` · `UVM` · `SVA` · `Constrained-random`
+<br/>
+`Directed & coverage-driven` · `Feature-based planning`
+
+**RTL · GLS · Timing · Power**
+<br/>
+`RTL DV` · `GLS` · `PG-GLS` · `GLS-SDF`
+<br/>
+`SDF back-annotation` · `UPF` · `Liberty (.lib)`
+
+</td><td valign="top" width="50%">
+
+**Emulation · EDA Tools**
+<br/>
+`Hardware Emulation` · `VCS` · `Verdi` · `Primetime`
+<br/>
+`Waveform debug` · `Regression analysis`
+
+**Automation · Protocols**
+<br/>
+`Python` · `TCL` · `Makefiles`
+<br/>
+`APB` · `AXI / AXI-Lite` · `JTAG`
+
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Specialty-Hardware%20Emulation%20%2F%20BMOD-0077B6?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Focus-IP%20%26%20SoC%20Design%20Verification-1565C0?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Scope-Testchip%20DV%20%2F%20Coverage%20Closure-6A1B9A?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Contact
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    CAREER TIMELINE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <strong>Shubhasmita Sahoo</strong><br/>
-  Design Verification Engineer · Bangalore<br/><br/>
-  <a href="https://www.linkedin.com/in/shubhasmita-sahoo-724185137">LinkedIn</a>
-  ·
-  <a href="https://github.com/ShubhasmitaVLSI">GitHub</a>
-</p>
+## 💼 Career Timeline
 
-<p align="center">
-  <sub>Open to emulation-focused Design Verification opportunities — Bangalore, Hybrid, or Remote.</sub>
-</p>
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhasmitaVLSI&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+
+**🟢 Synopsys** — `R&D Senior Engineer · Design Verification`
+*July 2023 – Present · Bangalore*
+> IP / SoC verification · Emulation, RTL & GLS
+
+- 🔌 **Hardware emulation** — extended IP behavioral models (BMOD) with emulator support for bring-up and large-scale validation
+- ⚡ **Full-emulation + hybrid sim–emulation flows** — accelerated corner-case debug vs long pure-simulation cycles
+- 🧪 **Corner validation** — BMOD refinement across SS/TT/FF process corners
+- 📋 **Feature-based verification plans** — requirements → scenarios → tests with coverage goals
+- 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
+- 📊 Drove **functional & code coverage closure** — targeted tests + reviewed exclusions
+- 🤖 Regression & GLS/RTL automation with **Python + Makefiles**
+- 🔬 RTL DV of **testchips** (mixed-signal) using VCS/Verdi
+- ⏱️ GLS, PG-GLS, GLS-SDF — setup/hold, X-propagation, SDF annotation debug
+- 🔋 Power-aware verification with **UPF** (domains, isolation/retention, power transitions)
+- 👥 Supported hiring via technical interviews
+
+---
+
+**🔵 Asiczen Technology** — `Digital Design Engineer`
+*April 2022 – July 2023 · Bangalore*
+> UVM-based block & SoC verification · Test methodologies
+
+- 🧱 Built UVM TB components (driver, monitor, scoreboard) — arbitration logic in SystemVerilog
+- 📡 UVM-based **APB** verification — sequences, protocol checking, coverage-driven validation
+- 🤖 SoC verification — packet-based memory checks (data integrity, transaction-level)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   VERIFICATION HIGHLIGHTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Verification Highlights
+
+<div align="center">
+
+| Workstream | Stack / Methodology | Outcome |
+|:---|:---|:---:|
+| 🔌 **IP Emulation Enablement** — Synopsys | BMOD · Emulation · Hybrid sim–emu | `Faster corner debug` |
+| 🧪 **Testchip DV** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
+| 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation & emu flows | `Process robustness` |
+| ⏱️ **GLS-SDF Regression** — Synopsys | GLS-SDF · Python · Makefiles | `Signoff stability` |
+| 📡 **APB UVM Verification** — Asiczen | UVM · SystemVerilog · Coverage | `Protocol + cov` |
+| 🤖 **SoC Memory Checks** — Asiczen | Packet checks · SoC DV | `Data integrity` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        EDUCATION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+| Degree | Institute | Years |
+|:---|:---|:---:|
+| **M.Tech** — VLSI Design & Embedded Systems | KIIT University, Bhubaneswar | 2021 – 2023 |
+| **B.Tech** — Electronics & Instrumentation Engineering | NIT Rourkela | 2015 – 2019 |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhasmitaVLSI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ShubhasmitaVLSI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhasmitaVLSI&bg_color=0d1117&color=58A6FF&line=1565C0&point=58A6FF&area_color=0d47a1&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ShubhasmitaVLSI&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+<!-- ─── SNAKE CONTRIBUTION ANIMATION ──────────────────────────────── -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       SKILL DEPTH                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🧭 Skill Depth — VLSI / DV
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&width=700&height=36&lines=4.2%2B+years+deep+%E2%80%94+still+levelling+emulation+%26+SoC+DV+%F0%9F%8E%AF" alt="Learning"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">🔌<br/><b>Advanced Emulation</b><br/><sub>Deep Dive</sub></td>
+<td align="center">🏗️<br/><b>SoC Emulation Strategy</b><br/><sub>Hands-on</sub></td>
+<td align="center">📐<br/><b>Formal / SVA+</b><br/><sub>Exploring</sub></td>
+<td align="center">🔋<br/><b>UPF Power DV</b><br/><sub>In Progress</sub></td>
+<td align="center">🤖<br/><b>AI-assisted Debug</b><br/><sub>Exploring</sub></td>
+<td align="center">🆕<br/><b>High-speed Protocol DV</b><br/><sub>Studying</sub></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓░-75%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓░░░-60%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓▓░░░░░-40%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓░░░-55%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓▓░░░░░-35%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓░░░░░░-25%25-48CAE4?style=flat-square"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        LET'S CONNECT                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhasmita%20Sahoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
+[![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
+
+<br/>
+
+> 💬 *Open to emulation-focused Design Verification roles — Bangalore, Hybrid, or Remote.*
+> *If you're building scalable UVM / Emulation / SoC DV strategies — let's talk on LinkedIn.*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                           FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%22I+don%27t+just+run+tests+%E2%80%94+I+own+closure.%22;%224.2%2B+years+of+silicon+scars+and+still+learning.%22;%22From+BMOD+bring-up+to+GLS-SDF+signoff.%22;%22Available+for+Emulation+%2F+DV+roles+%C2%B7+Bangalore+%C2%B7+Hybrid%22" alt="Footer Quote"/>
+
+<br/>
+
+⭐ *If any repo helped you — a star means a lot!*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,20:160038,40:2d1b69,65:1a237e,85:0d47a1,100:0d0221&height=140&section=footer&animation=twinkling"/>
+
+</div>
