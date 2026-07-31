@@ -64,7 +64,7 @@ Authenticating... ████████████████████  
 │  signoff     │  GLS-SDF · PG-GLS · UPF · Coverage closure   │
 ├──────────────┼──────────────────────────────────────────────┤
 │  impact      │  Emulator-ready models · faster corner debug │
-│              │  multi-node testchip DV · regression auto    │
+│              │  testchip DV · regression automation         │
 ├──────────────┼──────────────────────────────────────────────┤
 │  education   │  M.Tech VLSI (KIIT) · B.Tech EIE (NIT R)     │
 │  seeking     │  Emulation-focused DV · Bangalore / Hybrid   │
@@ -260,7 +260,7 @@ $ █
 <img src="https://img.shields.io/badge/Focus-IP%20%26%20SoC%20Design%20Verification-1565C0?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Scope-Multi--node%20Testchip%20DV-6A1B9A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scope-Testchip%20DV-6A1B9A?style=for-the-badge&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -288,7 +288,7 @@ $ █
 - 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
 - 📊 Drove **functional & code coverage closure** — targeted tests + reviewed exclusions
 - 🤖 Regression & GLS/RTL automation with **Python + Makefiles**
-- 🔬 RTL DV of testchips across **advanced process nodes** (mixed-signal) using VCS/Verdi
+- 🔬 RTL DV of **testchips** (mixed-signal) using VCS/Verdi
 - ⏱️ GLS, PG-GLS, GLS-SDF — setup/hold, X-propagation, SDF annotation debug
 - 🔋 Power-aware verification with **UPF** (domains, isolation/retention, power transitions)
 - 👥 Supported hiring via technical interviews
@@ -316,7 +316,7 @@ $ █
 | Project | Stack | Proof |
 |:---|:---|:---:|
 | 🔌 **IP Emulation Enablement** — Synopsys | BMOD · Emulation · Hybrid sim–emu | `Faster corner debug` |
-| 🧪 **Testchip DV (multi-node)** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
+| 🧪 **Testchip DV** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
 | 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation & emu flows | `Process robustness` |
 | ⏱️ **GLS-SDF Regression** — Synopsys | GLS-SDF · Python · Makefiles | `Signoff stability` |
 | 📡 **APB UVM Verification** — Asiczen | UVM · SystemVerilog · Coverage | `Protocol + cov` |
