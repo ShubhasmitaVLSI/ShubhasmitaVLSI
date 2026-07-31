@@ -20,7 +20,7 @@
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=4.2%2B+Years+IP+%26+SoC+Design+Verification+%F0%9F%94%8C;Zebu+Emulation+%C2%B7+UVM+%C2%B7+SystemVerilog+%C2%B7+Coverage+Closure+%E2%9A%A1;PVT+IP+BMOD+%C2%B7+Hybrid+Sim%E2%80%93Emulation+%C2%B7+GLS-SDF+%C2%B7+UPF+%F0%9F%92%A1;R%26D+Senior+Engineer+%40+Synopsys+%E2%80%A2+Seeking+Emulation-Focused+DV+%F0%9F%9A%80;ShubhasmitaVLSI+%E2%80%94+Verify+Fast.+Debug+Deep.+Ship+Silicon.+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=4.2%2B+Years+IP+%26+SoC+Design+Verification+%F0%9F%94%8C;Hardware+Emulation+%C2%B7+UVM+%C2%B7+SystemVerilog+%C2%B7+Coverage+Closure+%E2%9A%A1;Hybrid+Sim%E2%80%93Emulation+%C2%B7+GLS-SDF+%C2%B7+UPF+%C2%B7+Regression+Automation+%F0%9F%92%A1;R%26D+Senior+Engineer+%40+Synopsys+%E2%80%A2+Seeking+Emulation-Focused+DV+%F0%9F%9A%80;ShubhasmitaVLSI+%E2%80%94+Verify+Fast.+Debug+Deep.+Ship+Silicon.+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
 
@@ -31,8 +31,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=Profile+Views&color=0d47a1&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
-[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhasmita288@gmail.com)
-[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Emulation%20%2F%20DV%20Roles-2ea44f?style=for-the-badge)](mailto:shubhasmita288@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
+[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Emulation%20%2F%20DV%20Roles-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
 
 </div>
 
@@ -57,13 +57,13 @@ Authenticating... ████████████████████  
 ├──────────────┬──────────────────────────────────────────────┤
 │  role        │  R&D Senior Engineer · Design Verification   │
 │  company     │  Synopsys · Bangalore 🇮🇳                    │
-│  domain      │  Emulation (Zebu) · SLM / PVT IP · SoC / IP  │
+│  domain      │  Hardware Emulation · SoC / IP DV            │
 │  experience  │  4.2+ years — RTL · GLS · hybrid emu flows   │
 │  stack       │  SystemVerilog · UVM · SVA · Python · TCL    │
-│  platforms   │  Zebu · VCS · Verdi · Primetime              │
+│  platforms   │  Emulation · VCS · Verdi · Primetime         │
 │  signoff     │  GLS-SDF · PG-GLS · UPF · Coverage closure   │
 ├──────────────┼──────────────────────────────────────────────┤
-│  impact      │  Zebu-ready BMOD · faster corner-case debug  │
+│  impact      │  Emulator-ready models · faster corner debug │
 │              │  multi-node testchip DV · regression auto    │
 ├──────────────┼──────────────────────────────────────────────┤
 │  education   │  M.Tech VLSI (KIIT) · B.Tech EIE (NIT R)     │
@@ -88,9 +88,9 @@ $ █
 <table>
 <tr>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/-%F0%9F%94%8C%20Zebu%20Emulation-00C853?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-%F0%9F%94%8C%20Hardware%20Emulation-00C853?style=for-the-badge&logoColor=white"/>
 <br/><br/>
-<sub>PVT IP BMOD · emulator-ready models · bring-up</sub>
+<sub>Emulator-ready behavioral models · bring-up</sub>
 </td>
 <td align="center" width="220">
 <img src="https://img.shields.io/badge/-%E2%9A%A1%20Hybrid%20Sim%E2%80%93Emu-1565C0?style=for-the-badge&logoColor=white"/>
@@ -118,16 +118,16 @@ $ █
 
 **🔬 Domain Expertise**
 <br/>
-`PVT IP` · `SLM` · `SoC / IP DV`
+`IP DV` · `SoC DV` · `Testchip`
 <br/>
-`Process corners` · `Testchip` · `Mixed-signal`
+`Process corners` · `Mixed-signal` · `Coverage`
 
 </td>
 <td align="center" width="280">
 
 **⚙️ Emulation Architecture**
 <br/>
-`Zebu` · `BMOD` · `Hybrid flows`
+`Emulator-ready BMOD` · `Hybrid flows`
 <br/>
 `Corner-case acceleration` · `Bring-up`
 
@@ -173,13 +173,13 @@ $ █
 ```
 ⚡  Emulation is a force multiplier
     Long sim cycles hide bugs.
-    Zebu-ready models unlock real debug speed.
+    Emulator-ready models unlock real debug speed.
 
 🔐  Coverage without a plan is noise
     Map requirements → scenarios → tests.
     Traceability beats ad-hoc test spam.
 
-📦  BMODs should survive the next tapeout
+📦  Models should survive the next tapeout
     Emulator-ready from day one.
     Reusable models compound like interest.
 ```
@@ -236,7 +236,7 @@ $ █
 
 **Emulation · Tools**
 <br/>
-`Zebu` · `VCS` · `Verdi` · `Primetime`
+`Hardware Emulation` · `VCS` · `Verdi` · `Primetime`
 <br/>
 `Waveform debug` · `Regression analysis`
 
@@ -254,13 +254,13 @@ $ █
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Specialty-Emulation%20%2F%20Zebu%20%2F%20BMOD-0077B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialty-Hardware%20Emulation%20%2F%20BMOD-0077B6?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Focus-IP%20%26%20SoC%20Design%20Verification-1565C0?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Nodes-2A%20%26%204nm%20Testchips-6A1B9A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scope-Multi--node%20Testchip%20DV-6A1B9A?style=for-the-badge&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -279,16 +279,16 @@ $ █
 
 **🟢 Synopsys** — `R&D Senior Engineer · Design Verification`
 *July 2023 – Present · Bangalore*
-> SLM / PVT IP · Emulation, RTL & GLS
+> IP / SoC verification · Emulation, RTL & GLS
 
-- 🔌 **Zebu emulation** — extended PVT IP behavioral models (BMOD) with emulator support; made models emulator-ready for bring-up and large-scale validation
+- 🔌 **Hardware emulation** — extended IP behavioral models (BMOD) with emulator support; made models emulator-ready for bring-up and large-scale validation
 - ⚡ **Full-emulation + hybrid sim–emulation flows** — accelerated corner-case debug vs long pure-simulation cycles
 - 🧪 **Corner validation** — BMOD refinement across SS/TT/FF process corners
 - 📋 **Feature-based verification plans** — requirements → scenarios → tests with coverage goals
 - 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
 - 📊 Drove **functional & code coverage closure** — targeted tests + reviewed exclusions
 - 🤖 Regression & GLS/RTL automation with **Python + Makefiles**
-- 🔬 RTL DV of testchips across nodes (**2A** and **4nm** mixed-signal) using VCS/Verdi
+- 🔬 RTL DV of testchips across **advanced process nodes** (mixed-signal) using VCS/Verdi
 - ⏱️ GLS, PG-GLS, GLS-SDF — setup/hold, X-propagation, SDF annotation debug
 - 🔋 Power-aware verification with **UPF** (domains, isolation/retention, power transitions)
 - 👥 Supported hiring via technical interviews
@@ -299,9 +299,9 @@ $ █
 *April 2022 – July 2023 · Bangalore*
 > UVM-based block & SoC verification · Test methodologies
 
-- 🧱 Built UVM TB components (driver, monitor, scoreboard) — priority / round-robin arbitration in SystemVerilog
+- 🧱 Built UVM TB components (driver, monitor, scoreboard) — arbitration logic in SystemVerilog
 - 📡 UVM-based **APB** verification — sequences, protocol checking, coverage-driven validation
-- 🤖 AI-chip verification — packet-based scratchpad memory checks (data integrity, transaction-level)
+- 🤖 SoC verification — packet-based memory checks (data integrity, transaction-level)
 
 ---
 
@@ -315,12 +315,12 @@ $ █
 
 | Project | Stack | Proof |
 |:---|:---|:---:|
-| 🔌 **PVT IP Emulation (Zebu)** — Synopsys | BMOD · Zebu · Hybrid sim–emu | `Faster corner debug` |
-| 🧪 **Testchip DV (multi-node)** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `2A & 4nm MS` |
-| 📐 **PVT IP Corner Validation** — Synopsys | SS/TT/FF · Simulation & emu flows | `Process robustness` |
+| 🔌 **IP Emulation Enablement** — Synopsys | BMOD · Emulation · Hybrid sim–emu | `Faster corner debug` |
+| 🧪 **Testchip DV (multi-node)** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
+| 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation & emu flows | `Process robustness` |
 | ⏱️ **GLS-SDF Regression** — Synopsys | GLS-SDF · Python · Makefiles | `Signoff stability` |
 | 📡 **APB UVM Verification** — Asiczen | UVM · SystemVerilog · Coverage | `Protocol + cov` |
-| 🤖 **AI-chip Scratchpad Checks** — Asiczen | Packet checks · SoC DV | `Data integrity` |
+| 🤖 **SoC Memory Checks** — Asiczen | Packet checks · SoC DV | `Data integrity` |
 
 </div>
 
@@ -387,12 +387,12 @@ $ █
 
 <table>
 <tr>
-<td align="center">🔌<br/><b>Advanced Zebu Flows</b><br/><sub>Deep Dive</sub></td>
+<td align="center">🔌<br/><b>Advanced Emulation Flows</b><br/><sub>Deep Dive</sub></td>
 <td align="center">🏗️<br/><b>SoC Emulation Strategy</b><br/><sub>Hands-on</sub></td>
 <td align="center">📐<br/><b>Formal / SVA+</b><br/><sub>Exploring</sub></td>
 <td align="center">🔋<br/><b>UPF Power DV</b><br/><sub>In Progress</sub></td>
 <td align="center">🤖<br/><b>AI-assisted Debug</b><br/><sub>Exploring</sub></td>
-<td align="center">🆕<br/><b>PCIe / CXL DV</b><br/><sub>Studying</sub></td>
+<td align="center">🆕<br/><b>High-speed Protocol DV</b><br/><sub>Studying</sub></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓░-75%25-48CAE4?style=flat-square"/></td>
@@ -417,13 +417,12 @@ $ █
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhasmita%20Sahoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
-[![Gmail](https://img.shields.io/badge/Gmail-shubhasmita288%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhasmita288@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
 
 <br/>
 
 > 💬 *Open to emulation-focused Design Verification roles — Bangalore, Hybrid, or Remote.*
-> *If you're building scalable Zebu / UVM / SoC DV strategies — let's talk.*
+> *If you're building scalable emulation / UVM / SoC DV strategies — let's talk via LinkedIn.*
 
 </div>
 
