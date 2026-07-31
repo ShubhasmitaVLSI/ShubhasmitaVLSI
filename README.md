@@ -17,6 +17,19 @@
 
 <br/>
 
+<!-- ─── VLSI / DV DOMAIN BADGES ─────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/VLSI-Design%20Verification-0d47a1?style=for-the-badge" alt="VLSI"/>
+<img src="https://img.shields.io/badge/Silicon-Testchip%20DV-1565C0?style=for-the-badge" alt="Silicon"/>
+<img src="https://img.shields.io/badge/SystemVerilog-UVM-6A1B9A?style=for-the-badge" alt="SystemVerilog UVM"/>
+<img src="https://img.shields.io/badge/EDA-VCS%20%7C%20Verdi-00838F?style=for-the-badge" alt="EDA"/>
+<img src="https://img.shields.io/badge/Signoff-GLS%20%7C%20UPF-2E7D32?style=for-the-badge" alt="Signoff"/>
+
+</div>
+
+<br/>
+
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
 <div align="center">
 
