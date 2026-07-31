@@ -1,138 +1,105 @@
-<!-- ShubhasmitaVLSI — Verification Lab profile -->
-
 <div align="center">
-  <img width="100%" src="./header.svg" alt="ShubhasmitaVLSI — Design Verification Engineer"/>
+  <img width="100%" src="./header.svg" alt="Shubhasmita Sahoo — Design Verification Engineer"/>
 </div>
 
-<br/>
-
-<div align="center">
-
-[![Views](https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=views&color=1fa88a&style=flat-square)](https://github.com/ShubhasmitaVLSI)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-b86b2c?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
-[![Open](https://img.shields.io/badge/open_to-emulation_DV-15241e?style=flat-square)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhasmita-sahoo-724185137"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/ShubhasmitaVLSI"><img src="https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=Profile%20views&color=6b7785&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-### About the lab
+## Professional Summary
 
-R&amp;D Senior Engineer at **Synopsys** (Bangalore). I verify silicon the hard way — **emulation-ready models**, **hybrid sim↔emu flows**, **coverage closure**, and **GLS/UPF signoff** on IP and testchips.
+Design Verification Engineer with **4.2+ years** of experience in IP- and SoC-level verification, with specialization in **hardware emulation**. Currently **R&amp;D Senior Engineer at Synopsys**, Bangalore.
 
-> Close coverage. Catch the corner case. Ship the tapeout.
-
----
-
-### Toolbelt
-
-```text
- VERIFICATION     SystemVerilog · UVM · SVA · constrained-random · coverage-driven
- EMULATION        emulator-ready BMOD · full + hybrid sim–emulation flows
- SIGNOFF          RTL DV · GLS · PG-GLS · GLS-SDF · UPF · Liberty (.lib)
- DEBUG            VCS · Verdi · Primetime · waveform + regression analysis
- AUTOMATION       Python · TCL · Makefiles · regression infrastructure
- PROTOCOLS        APB · AXI / AXI-Lite · JTAG
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,c,cpp,bash&theme=dark&perline=8"/>
-</div>
+Core strengths include emulator-ready behavioral modeling, hybrid simulation–emulation flows, SystemVerilog/UVM methodology, coverage closure, GLS/UPF signoff, and regression automation. Seeking an **emulation-focused design verification** role.
 
 ---
 
-### Experience
+## Core Competencies
 
-<table>
-<tr>
-<td width="12" bgcolor="#1fa88a"></td>
-<td>
-
-**Synopsys** — R&amp;D Senior Engineer · Design Verification  
-`Jul 2023 – Present · Bangalore`
-
-- Built **emulator-ready behavioral models** and ran full + hybrid sim–emulation flows for faster corner-case debug
-- Owned **feature-based verification plans**, functional/code coverage closure, and reviewed exclusions
-- Drove **GLS / PG-GLS / GLS-SDF** and **UPF** power-aware checks; debugged setup/hold, X-prop, SDF issues
-- Automated RTL/GLS regressions with **Python + Makefiles**; verified **testchips** (mixed-signal) with VCS/Verdi
-- Partnered with design, backend, and silicon teams through pre-tapeout debug; supported technical interviews
-
-</td>
-</tr>
-<tr><td colspan="2" height="10"></td></tr>
-<tr>
-<td width="12" bgcolor="#b86b2c"></td>
-<td>
-
-**Asiczen Technology** — Digital Design Engineer  
-`Apr 2022 – Jul 2023 · Bangalore`
-
-- Built UVM components (driver / monitor / scoreboard) for arbitration logic in SystemVerilog
-- Delivered **APB** UVM sequences, protocol checks, and coverage-driven validation
-- Contributed SoC-level packet/memory integrity checks at transaction level
-
-</td>
-</tr>
-</table>
-
----
-
-### Selected work
-
-| Focus | What shipped |
-| :---: | :--- |
-| **Emulation enablement** | Emulator-ready BMODs + hybrid flows → faster corner debug |
-| **Testchip DV** | RTL integration, coverage closure, GLS support |
-| **Corner validation** | SS / TT / FF robustness across sim & emu-oriented flows |
-| **GLS-SDF regression** | Stabilized signoff-oriented flow with automation |
-| **APB UVM bench** | Sequences, protocol checking, coverage |
-| **SoC memory checks** | Packet-based data-integrity validation |
-
----
-
-### Education
-
-| | |
+| Domain | Capabilities |
 | :--- | :--- |
-| **M.Tech** — VLSI Design & Embedded Systems | KIIT University · 2021–2023 |
-| **B.Tech** — Electronics & Instrumentation | NIT Rourkela · 2015–2019 |
+| **Verification** | SystemVerilog, UVM, SVA, constrained-random & coverage-driven methodology, feature-based test planning |
+| **Emulation** | Emulator-ready BMOD, full-emulation and hybrid simulation–emulation flows, corner-case debug acceleration |
+| **RTL / GLS / Power** | RTL DV, GLS, PG-GLS, GLS-SDF, SDF back-annotation, UPF power-aware verification |
+| **Tools** | VCS, Verdi, Primetime, waveform debug, regression analysis |
+| **Automation** | Python, TCL, Makefiles, regression infrastructure |
+| **Protocols** | AMBA APB, AXI / AXI-Lite, JTAG |
 
 ---
 
-### GitHub pulse
+## Professional Experience
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShubhasmitaVLSI&show_icons=true&theme=transparent&hide_border=true&title_color=1fa88a&icon_color=b86b2c&text_color=c9d5ce&bg_color=0b1210"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhasmitaVLSI&layout=compact&theme=transparent&hide_border=true&title_color=b86b2c&text_color=c9d5ce&bg_color=0b1210"/>
-</div>
+### Synopsys — R&amp;D Senior Engineer, Design Verification
+**July 2023 – Present** · Bangalore
 
-<br/>
+- Enabled hardware emulation by extending IP behavioral models (BMOD) with emulator support for bring-up and large-scale validation
+- Executed full-emulation and hybrid simulation–emulation flows, accelerating corner-case debug versus long pure-simulation cycles
+- Developed feature-based verification plans mapping requirements to scenarios, tests, and coverage goals
+- Drove functional and code coverage closure through targeted testcases and reviewed exclusions
+- Performed GLS, PG-GLS, and GLS-SDF; debugged setup/hold violations, X-propagation, and SDF annotation issues
+- Conducted power-aware verification using UPF across RTL and GLS environments
+- Built and enhanced regression automation for RTL/GLS workflows using Python and Makefiles
+- Performed RTL verification of testchips (mixed-signal) using VCS/Verdi
+- Collaborated with design, backend, and silicon/validation teams through pre-tapeout closure; supported technical interviews
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhasmitaVLSI&bg_color=0b1210&color=1fa88a&line=b86b2c&point=e8b070&area_color=15241e&area=true&hide_border=true&custom_title=Contribution%20activity"/>
-</div>
+### Asiczen Technology — Digital Design Engineer
+**April 2022 – July 2023** · Bangalore
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ShubhasmitaVLSI/ShubhasmitaVLSI/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
+- Developed UVM testbench components (driver, monitor, scoreboard) and verified arbitration logic in SystemVerilog
+- Delivered UVM-based APB verification including sequences, protocol checking, and coverage-driven validation
+- Contributed to SoC verification with packet-based memory integrity and transaction-level checks
 
 ---
 
-### Connect
+## Selected Highlights
 
-<div align="center">
+1. **Emulation enablement** — Emulator-ready BMODs and hybrid flows for faster corner-case debug  
+2. **Testchip verification** — RTL/IP integration, coverage closure, and GLS support  
+3. **Corner validation** — Verification across SS/TT/FF process corners  
+4. **GLS-SDF regression** — Stabilized signoff-oriented regression with automation for repeatability  
+5. **APB UVM verification** — Protocol checking and coverage-driven validation  
+6. **SoC memory checks** — Packet-based data-integrity validation at transaction level  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhasmita_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
-[![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-15241e?style=for-the-badge&logo=github&logoColor=5fe3c0)](https://github.com/ShubhasmitaVLSI)
+---
 
-<br/>
+## Education
 
-<sub>Open to **emulation-focused DV** roles · Bangalore / Hybrid / Remote — reach out on LinkedIn.</sub>
+| Degree | Institution | Period |
+| :--- | :--- | :---: |
+| M.Tech — VLSI Design & Embedded Systems | KIIT University, Bhubaneswar | 2021 – 2023 |
+| B.Tech — Electronics & Instrumentation Engineering | NIT Rourkela | 2015 – 2019 |
 
-</div>
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhasmitaVLSI&show_icons=true&theme=graywhite&hide_border=true&title_color=1f2933&icon_color=c9a227&text_color=3e4c59&bg_color=f7f8fa" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhasmitaVLSI&layout=compact&theme=graywhite&hide_border=true&title_color=1f2933&text_color=3e4c59&bg_color=f7f8fa" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhasmitaVLSI&bg_color=f7f8fa&color=1f2933&line=c9a227&point=c9a227&area_color=e8eef2&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <strong>Shubhasmita Sahoo</strong><br/>
+  Design Verification Engineer · Bangalore<br/><br/>
+  <a href="https://www.linkedin.com/in/shubhasmita-sahoo-724185137">LinkedIn</a>
+  ·
+  <a href="https://github.com/ShubhasmitaVLSI">GitHub</a>
+</p>
+
+<p align="center">
+  <sub>Open to emulation-focused Design Verification opportunities — Bangalore, Hybrid, or Remote.</sub>
+</p>

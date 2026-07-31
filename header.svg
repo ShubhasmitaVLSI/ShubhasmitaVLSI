@@ -1,92 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="ShubhasmitaVLSI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Shubhasmita Sahoo">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1210"/>
-      <stop offset="45%" stop-color="#12201a"/>
-      <stop offset="100%" stop-color="#0b1210"/>
+      <stop offset="0%" stop-color="#0f1419"/>
+      <stop offset="55%" stop-color="#151c24"/>
+      <stop offset="100%" stop-color="#0f1419"/>
     </linearGradient>
-    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#b86b2c"/>
-      <stop offset="50%" stop-color="#e8b070"/>
-      <stop offset="100%" stop-color="#b86b2c"/>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#c9a227" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#c9a227" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c9a227" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="mint" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#5fe3c0"/>
-      <stop offset="100%" stop-color="#1fa88a"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#1e332c" stroke-width="1"/>
-    </pattern>
-    <filter id="soft">
-      <feGaussianBlur stdDeviation="1.2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <style>
-      @keyframes pulse { 0%,100%{opacity:.55} 50%{opacity:1} }
-      @keyframes drift { 0%{transform:translateX(0)} 100%{transform:translateX(-220px)} }
-      @keyframes rise { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
-      .dot { animation: pulse 2.2s ease-in-out infinite }
-      .rail { animation: drift 28s linear infinite }
-      .in1 { animation: rise .8s .2s both }
-      .in2 { animation: rise .8s .45s both }
-      .in3 { animation: rise .8s .7s both }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .a1 { animation: fadeUp 0.9s ease 0.15s both; }
+      .a2 { animation: fadeUp 0.9s ease 0.35s both; }
+      .a3 { animation: fadeUp 0.9s ease 0.55s both; }
+      .a4 { animation: fadeUp 0.9s ease 0.75s both; }
     </style>
   </defs>
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)" opacity="0.45"/>
+  <rect width="1200" height="280" fill="url(#bg)"/>
 
-  <!-- left die motif -->
-  <g transform="translate(48,56)" filter="url(#soft)">
-    <rect x="0" y="0" width="168" height="168" rx="10" fill="#15241e" stroke="#5fe3c0" stroke-width="1.5" opacity="0.95"/>
-    <rect x="18" y="18" width="132" height="132" rx="6" fill="#0f1a16" stroke="#b86b2c" stroke-width="1.2"/>
-    <!-- bond pads -->
-    <g fill="#e8b070">
-      <rect x="36" y="8" width="14" height="8" rx="1"/><rect x="60" y="8" width="14" height="8" rx="1"/>
-      <rect x="84" y="8" width="14" height="8" rx="1"/><rect x="108" y="8" width="14" height="8" rx="1"/>
-      <rect x="36" y="152" width="14" height="8" rx="1"/><rect x="60" y="152" width="14" height="8" rx="1"/>
-      <rect x="84" y="152" width="14" height="8" rx="1"/><rect x="108" y="152" width="14" height="8" rx="1"/>
-      <rect x="8" y="36" width="8" height="14" rx="1"/><rect x="8" y="60" width="8" height="14" rx="1"/>
-      <rect x="8" y="84" width="8" height="14" rx="1"/><rect x="8" y="108" width="8" height="14" rx="1"/>
-      <rect x="152" y="36" width="8" height="14" rx="1"/><rect x="152" y="60" width="8" height="14" rx="1"/>
-      <rect x="152" y="84" width="8" height="14" rx="1"/><rect x="152" y="108" width="8" height="14" rx="1"/>
-    </g>
-    <!-- inner blocks -->
-    <rect x="40" y="40" width="40" height="28" rx="3" fill="#1fa88a" opacity="0.55"/>
-    <rect x="88" y="40" width="40" height="28" rx="3" fill="#b86b2c" opacity="0.45"/>
-    <rect x="40" y="78" width="88" height="18" rx="3" fill="#5fe3c0" opacity="0.28"/>
-    <rect x="40" y="106" width="52" height="28" rx="3" fill="#e8b070" opacity="0.35"/>
-    <rect x="100" y="106" width="28" height="28" rx="3" fill="#5fe3c0" opacity="0.4"/>
+  <!-- subtle frame -->
+  <rect x="24" y="24" width="1152" height="232" fill="none" stroke="#2a3542" stroke-width="1"/>
+  <rect x="28" y="28" width="1144" height="224" fill="none" stroke="#1c2530" stroke-width="1"/>
+
+  <!-- left accent bar -->
+  <rect x="48" y="56" width="3" height="168" fill="#c9a227"/>
+
+  <text class="a1" x="72" y="88"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="15" letter-spacing="4.5" fill="#c9a227">DESIGN VERIFICATION ENGINEER</text>
+
+  <text class="a2" x="72" y="148"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="52" font-weight="700" fill="#eef2f6">Shubhasmita Sahoo</text>
+
+  <rect class="a3" x="72" y="166" width="280" height="1.5" fill="url(#rule)"/>
+
+  <text class="a3" x="72" y="198"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="16" fill="#9aa7b5">R&amp;D Senior Engineer  ·  Synopsys  ·  Bangalore</text>
+
+  <text class="a4" x="72" y="228"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="14" fill="#6b7785">Hardware Emulation  ·  SystemVerilog / UVM  ·  SoC &amp; IP Verification</text>
+
+  <!-- right monogram -->
+  <g transform="translate(980,78)">
+    <rect width="140" height="140" fill="none" stroke="#2a3542" stroke-width="1"/>
+    <rect x="8" y="8" width="124" height="124" fill="none" stroke="#c9a227" stroke-width="0.8" opacity="0.7"/>
+    <text x="70" y="92" text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="42" font-weight="700" fill="#eef2f6">SV</text>
+    <text x="70" y="118" text-anchor="middle"
+          font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="11" letter-spacing="2" fill="#9aa7b5">VLSI</text>
   </g>
-
-  <!-- brand + copy -->
-  <text class="in1" x="260" y="92" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="700" letter-spacing="6" fill="#5fe3c0">SHUBHASMITAVLSI</text>
-  <text class="in2" x="260" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="46" font-weight="800" fill="#f4f1ea">Shubhasmita Sahoo</text>
-  <text class="in3" x="260" y="188" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="18" font-weight="500" fill="#c9b8a0">Design Verification Engineer  ·  Emulation  ·  UVM  ·  SoC / IP</text>
-
-  <!-- status chips -->
-  <g class="in3" transform="translate(260,214)">
-    <rect width="168" height="30" rx="15" fill="#15241e" stroke="#5fe3c0" stroke-width="1"/>
-    <circle class="dot" cx="18" cy="15" r="5" fill="#5fe3c0"/>
-    <text x="34" y="20" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#d7fff3">LAB ONLINE</text>
-
-    <rect x="184" width="150" height="30" rx="15" fill="#1a140f" stroke="#e8b070" stroke-width="1"/>
-    <text x="259" y="20" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#e8b070">4.2+ YRS DV</text>
-
-    <rect x="350" width="210" height="30" rx="15" fill="#15241e" stroke="#8aa396" stroke-width="1"/>
-    <text x="455" y="20" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#c9d5ce">SYNOPSYS · BANGALORE</text>
-  </g>
-
-  <!-- scrolling skill rail -->
-  <clipPath id="railClip"><rect x="48" y="276" width="1104" height="24"/></clipPath>
-  <g clip-path="url(#railClip)">
-    <text class="rail" x="48" y="294" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#7d9a8d"
-          letter-spacing="1.5">SystemVerilog · UVM · SVA · Emulation · VCS · Verdi · GLS-SDF · UPF · Python · TCL · APB · AXI · Coverage Closure · Testchip DV · Regression Automation · SystemVerilog · UVM · SVA · Emulation · VCS · Verdi · GLS-SDF · UPF · Python · TCL ·</text>
-  </g>
-
-  <!-- copper accent line -->
-  <rect x="260" y="162" width="420" height="2.5" fill="url(#copper)" rx="2"/>
 </svg>
