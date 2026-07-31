@@ -20,7 +20,7 @@
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=4.2%2B+Years+IP+%26+SoC+Design+Verification+%F0%9F%94%8C;Hardware+Emulation+%C2%B7+UVM+%C2%B7+SystemVerilog+%C2%B7+Coverage+Closure+%E2%9A%A1;Hybrid+Sim%E2%80%93Emu+%C2%B7+GLS-SDF+%C2%B7+UPF+%C2%B7+Regression+Automation+%F0%9F%92%A1;R%26D+Senior+Engineer+%40+Synopsys+%E2%80%A2+Seeking+Emulation-Focused+DV+%F0%9F%9A%80;ShubhasmitaVLSI+%E2%80%94+Verify.+Close+Coverage.+Ship+Silicon.+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=4.2%2B+Years+IP+%26+SoC+Design+Verification+%F0%9F%94%8C;SystemVerilog+%C2%B7+UVM+%C2%B7+Coverage+Closure+%C2%B7+GLS-SDF+%C2%B7+UPF+%E2%9A%A1;RTL+%2F+Testchip+DV+%C2%B7+Regression+Automation+%C2%B7+VCS+%2F+Verdi+%F0%9F%92%A1;R%26D+Senior+Engineer+%40+Synopsys+%E2%80%A2+Growing+in+Emulation+(%7E10%25)+%F0%9F%9A%80;ShubhasmitaVLSI+%E2%80%94+Verify.+Close+Coverage.+Ship+Silicon.+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
 
@@ -32,7 +32,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ShubhasmitaVLSI&label=Profile+Views&color=0d47a1&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
 [![GitHub](https://img.shields.io/badge/GitHub-ShubhasmitaVLSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhasmitaVLSI)
-[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Emulation%20%2F%20DV%20Roles-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
+[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Design%20Verification%20Roles-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/shubhasmita-sahoo-724185137)
 
 </div>
 
@@ -53,19 +53,20 @@
 ├──────────────┬──────────────────────────────────────────────┤
 │  role        │  R&D Senior Engineer · Design Verification   │
 │  company     │  Synopsys · Bangalore                        │
-│  domain      │  Hardware Emulation · SoC / IP DV · VLSI     │
-│  experience  │  4.2+ years — RTL · GLS · hybrid emu flows   │
+│  domain      │  SoC / IP DV · VLSI · Coverage-driven        │
+│  experience  │  4.2+ years — RTL · GLS · UVM · automation   │
 │  methodology │  SystemVerilog · UVM · SVA · Coverage-driven │
-│  platforms   │  Emulation · VCS · Verdi · Primetime         │
+│  platforms   │  VCS · Verdi · Primetime                     │
 │  signoff     │  GLS-SDF · PG-GLS · UPF · Coverage closure   │
 ├──────────────┼──────────────────────────────────────────────┤
-│  focus       │  Emulator-ready BMOD · corner-case debug     │
-│              │  Testchip DV · regression automation         │
+│  strengths   │  UVM TB · feature plans · coverage closure   │
+│              │  Testchip DV · GLS · regression automation   │
+│  growing     │  Hardware Emulation (~10%) — ramping up      │
 ├──────────────┼──────────────────────────────────────────────┤
 │  education   │  M.Tech VLSI (KIIT) · B.Tech EIE (NIT R)     │
-│  seeking     │  Emulation-focused DV · Bangalore / Hybrid   │
+│  seeking     │  Design Verification · Bangalore / Hybrid    │
 ├──────────────┴──────────────────────────────────────────────┤
-│  ●  ACTIVE — Verifying · Emulating · Closing Coverage       │
+│  ●  ACTIVE — Verifying · Closing Coverage · Learning Emu    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -82,24 +83,24 @@
 <table>
 <tr>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/-%F0%9F%94%8C%20Emulation%20Enablement-00C853?style=for-the-badge&logoColor=white"/>
-<br/><br/>
-<sub>Emulator-ready BMOD · bring-up · large-scale validation</sub>
-</td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/-%E2%9A%A1%20Hybrid%20Sim%E2%80%93Emu-1565C0?style=for-the-badge&logoColor=white"/>
-<br/><br/>
-<sub>Full + hybrid flows · faster corner-case debug</sub>
-</td>
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20Coverage%20Closure-E65100?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20Coverage%20Closure-00C853?style=for-the-badge&logoColor=white"/>
 <br/><br/>
 <sub>Feature plans · functional & code coverage</sub>
 </td>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GLS%20%2F%20SDF%20Signoff-6A1B9A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GLS%20%2F%20SDF%20Signoff-1565C0?style=for-the-badge&logoColor=white"/>
 <br/><br/>
 <sub>GLS · PG-GLS · GLS-SDF · setup/hold · X-prop</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%A7%A0%20UVM%20%2F%20SystemVerilog-E65100?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>TB components · sequences · protocol checks</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%94%8C%20Emulation%20(~10%25)-6A1B9A?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<sub>Early exposure · BMOD / hybrid flows · ramping</sub>
 </td>
 </tr>
 </table>
@@ -119,20 +120,20 @@
 </td>
 <td align="center" width="280">
 
-**⚙️ Emulation & Debug**
+**⚙️ Core DV Strengths**
 <br/>
-`BMOD` · `Hybrid flows` · `Bring-up`
+`UVM` · `Coverage` · `GLS-SDF` · `UPF`
 <br/>
-`Corner-case acceleration` · `Waveform debug`
+`Regression automation` · `Waveform debug`
 
 </td>
 <td align="center" width="280">
 
-**🎓 Cross-Team Closure**
+**📈 Growing Skill**
 <br/>
-`Design · Backend · Silicon`
+`Hardware Emulation (~10%)`
 <br/>
-`Tech interviews` · `Pre-tapeout signoff`
+`BMOD exposure` · `Hybrid sim–emu (learning)`
 
 </td>
 </tr>
@@ -165,17 +166,17 @@
 <td width="50%" valign="top">
 
 ```
-⚡  Emulation is a force multiplier
-    Long sim cycles hide bugs.
-    Emulator-ready models unlock real debug speed.
-
-🔐  Coverage without a plan is noise
+⚡  Coverage is the contract with silicon
     Map requirements → scenarios → tests.
     Traceability beats ad-hoc test spam.
 
-📦  Models should survive the next tapeout
-    Emulator-ready from day one.
-    Reusable BMODs compound like interest.
+🔐  Signoff quality over checkbox GLS
+    Setup/hold, X-prop, SDF — debug to root cause.
+    Reviewed exclusions — not silent gaps.
+
+📦  UVM components should outlive one project
+    Drivers, monitors, scoreboards that transfer.
+    Good abstractions compound like interest.
 ```
 
 </td>
@@ -188,7 +189,7 @@
 
 📊  Metrics or it didn't close
     Functional + code coverage reports.
-    Reviewed exclusions — not silent gaps.
+    If you can't measure it, it didn't close.
 
 🔄  Automate → Regress → Debug → Repeat
     Python + Makefiles until the flow
@@ -230,7 +231,7 @@
 
 **Emulation · EDA Tools**
 <br/>
-`Hardware Emulation` · `VCS` · `Verdi` · `Primetime`
+`VCS` · `Verdi` · `Primetime` · `Hardware Emulation (learning ~10%)`
 <br/>
 `Waveform debug` · `Regression analysis`
 
@@ -248,13 +249,13 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Specialty-Hardware%20Emulation%20%2F%20BMOD-0077B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialty-UVM%20%2F%20Coverage%20%2F%20GLS-0077B6?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Focus-IP%20%26%20SoC%20Design%20Verification-1565C0?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Scope-Testchip%20DV%20%2F%20Coverage%20Closure-6A1B9A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Growing-Hardware%20Emulation%20%7E10%25-6A1B9A?style=for-the-badge&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -273,18 +274,17 @@
 
 **🟢 Synopsys** — `R&D Senior Engineer · Design Verification`
 *July 2023 – Present · Bangalore*
-> IP / SoC verification · Emulation, RTL & GLS
+> IP / SoC verification · RTL, GLS & UVM · Emulation (ramping)
 
-- 🔌 **Hardware emulation** — extended IP behavioral models (BMOD) with emulator support for bring-up and large-scale validation
-- ⚡ **Full-emulation + hybrid sim–emulation flows** — accelerated corner-case debug vs long pure-simulation cycles
-- 🧪 **Corner validation** — BMOD refinement across SS/TT/FF process corners
 - 📋 **Feature-based verification plans** — requirements → scenarios → tests with coverage goals
-- 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
 - 📊 Drove **functional & code coverage closure** — targeted tests + reviewed exclusions
-- 🤖 Regression & GLS/RTL automation with **Python + Makefiles**
-- 🔬 RTL DV of **testchips** (mixed-signal) using VCS/Verdi
 - ⏱️ GLS, PG-GLS, GLS-SDF — setup/hold, X-propagation, SDF annotation debug
 - 🔋 Power-aware verification with **UPF** (domains, isolation/retention, power transitions)
+- 🔬 RTL DV of **testchips** (mixed-signal) using VCS/Verdi
+- 🤖 Regression & GLS/RTL automation with **Python + Makefiles**
+- 🧪 **Corner validation** across SS/TT/FF process corners
+- 🔌 **Emulation (early / ~10%)** — contributing to BMOD emulator support and hybrid sim–emulation flows while ramping
+- 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
 - 👥 Supported hiring via technical interviews
 
 ---
@@ -309,11 +309,12 @@
 
 | Workstream | Stack / Methodology | Outcome |
 |:---|:---|:---:|
-| 🔌 **IP Emulation Enablement** — Synopsys | BMOD · Emulation · Hybrid sim–emu | `Faster corner debug` |
-| 🧪 **Testchip DV** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
-| 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation & emu flows | `Process robustness` |
+| 📊 **Coverage Closure** — Synopsys | Feature plans · Functional & code cov | `Signoff quality` |
 | ⏱️ **GLS-SDF Regression** — Synopsys | GLS-SDF · Python · Makefiles | `Signoff stability` |
+| 🧪 **Testchip DV** — Synopsys | RTL · VCS/Verdi · Coverage · GLS | `Coverage + GLS` |
+| 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation flows | `Process robustness` |
 | 📡 **APB UVM Verification** — Asiczen | UVM · SystemVerilog · Coverage | `Protocol + cov` |
+| 🔌 **Emulation exposure (~10%)** — Synopsys | BMOD · Hybrid sim–emu (learning) | `Ramping` |
 | 🤖 **SoC Memory Checks** — Asiczen | Packet checks · SoC DV | `Data integrity` |
 
 </div>
@@ -375,25 +376,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&width=700&height=36&lines=4.2%2B+years+deep+%E2%80%94+still+levelling+emulation+%26+SoC+DV+%F0%9F%8E%AF" alt="Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&width=700&height=36&lines=Strong+in+UVM+%2F+coverage+%2F+GLS+%E2%80%94+emulation+journey+at+%7E10%25+%F0%9F%8E%AF" alt="Learning"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center">🔌<br/><b>Advanced Emulation</b><br/><sub>Deep Dive</sub></td>
-<td align="center">🏗️<br/><b>SoC Emulation Strategy</b><br/><sub>Hands-on</sub></td>
-<td align="center">📐<br/><b>Formal / SVA+</b><br/><sub>Exploring</sub></td>
-<td align="center">🔋<br/><b>UPF Power DV</b><br/><sub>In Progress</sub></td>
-<td align="center">🤖<br/><b>AI-assisted Debug</b><br/><sub>Exploring</sub></td>
+<td align="center">🧠<br/><b>UVM / SystemVerilog</b><br/><sub>Core strength</sub></td>
+<td align="center">📊<br/><b>Coverage Closure</b><br/><sub>Core strength</sub></td>
+<td align="center">⏱️<br/><b>GLS / SDF / UPF</b><br/><sub>Hands-on</sub></td>
+<td align="center">🤖<br/><b>Regression Automation</b><br/><sub>Hands-on</sub></td>
+<td align="center">🔌<br/><b>Hardware Emulation</b><br/><sub>Early (~10%)</sub></td>
 <td align="center">🆕<br/><b>High-speed Protocol DV</b><br/><sub>Studying</sub></td>
 </tr>
 <tr>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓░-80%25-48CAE4?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓░-75%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓░░░-65%25-48CAE4?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/▓▓▓▓▓░░░-60%25-48CAE4?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/▓▓▓░░░░░-40%25-48CAE4?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/▓▓▓▓▓░░░-55%25-48CAE4?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/▓▓▓░░░░░-35%25-48CAE4?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/▓░░░░░░░-10%25-48CAE4?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/▓▓░░░░░░-25%25-48CAE4?style=flat-square"/></td>
 </tr>
 </table>
@@ -415,8 +416,8 @@
 
 <br/>
 
-> 💬 *Open to emulation-focused Design Verification roles — Bangalore, Hybrid, or Remote.*
-> *If you're building scalable UVM / Emulation / SoC DV strategies — let's talk on LinkedIn.*
+> 💬 *Open to Design Verification roles — Bangalore, Hybrid, or Remote.*
+> *Strong in UVM / coverage / GLS; actively growing hardware emulation (~10%). Let's talk on LinkedIn.*
 
 </div>
 
@@ -428,7 +429,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%22I+don%27t+just+run+tests+%E2%80%94+I+own+closure.%22;%224.2%2B+years+of+silicon+scars+and+still+learning.%22;%22From+BMOD+bring-up+to+GLS-SDF+signoff.%22;%22Available+for+Emulation+%2F+DV+roles+%C2%B7+Bangalore+%C2%B7+Hybrid%22" alt="Footer Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%22I+don%27t+just+run+tests+%E2%80%94+I+own+closure.%22;%224.2%2B+years+DV+%E2%80%94+UVM+%C2%B7+coverage+%C2%B7+GLS.%22;%22Emulation+journey+underway+%E2%80%94+currently+%7E10%25.%22;%22Available+for+Design+Verification+roles+%C2%B7+Bangalore+%C2%B7+Hybrid%22" alt="Footer Quote"/>
 
 <br/>
 
