@@ -66,7 +66,7 @@
 │  education   │  M.Tech VLSI (KIIT) · B.Tech EIE (NIT R)     │
 │  seeking     │  Design Verification · Bangalore / Hybrid    │
 ├──────────────┴──────────────────────────────────────────────┤
-│  ●  ACTIVE — Verifying · Emulating · Closing Coverage       │
+│  ●  ACTIVE — Verifying · Mentoring · Closing Coverage       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -136,6 +136,15 @@
 `Corner-case acceleration` · `Bring-up`
 
 </td>
+<td align="center" width="280">
+
+**🎓 Mentoring & Knowledge Share**
+<br/>
+`Junior mentoring` · `Peer DV sessions`
+<br/>
+`Tech interviews` · `Verification best practices`
+
+</td>
 </tr>
 </table>
 
@@ -194,6 +203,10 @@
 🔄  Automate → Regress → Debug → Repeat
     Python + Makefiles until the flow
     is boringly reliable.
+
+🎓  Mentoring multiplies verification quality
+    Teach juniors and peers the “why,” not just the fix.
+    Knowledge shared today prevents bugs tomorrow.
 ```
 
 </td>
@@ -285,7 +298,8 @@
 - 🧪 **Corner validation** across SS/TT/FF process corners
 - 🔌 **Hardware emulation** — extended IP behavioral models (BMOD) with emulator support; executed full-emulation and hybrid sim–emulation flows for faster corner-case debug
 - 🤝 Cross-team debug with design, backend, and silicon/validation before tape-out
-- 👥 Supported hiring via technical interviews
+- 👨‍🏫 **Mentored juniors and peers** on verification methodology — UVM practices, coverage strategy, debug approaches, and knowledge-sharing sessions
+- 👥 Supported hiring via technical interviews — assessing verification skills and cultural fit
 
 ---
 
@@ -315,6 +329,7 @@
 | 📐 **IP Corner Validation** — Synopsys | SS/TT/FF · Simulation flows | `Process robustness` |
 | 🔌 **IP Emulation Enablement** — Synopsys | BMOD · Emulation · Hybrid sim–emu | `Faster corner debug` |
 | 📡 **APB UVM Verification** — Asiczen | UVM · SystemVerilog · Coverage | `Protocol + cov` |
+| 👨‍🏫 **Mentoring & DV Knowledge Share** — Synopsys | Juniors · Peers · Interviews | `Team uplift` |
 | 🤖 **SoC Memory Checks** — Asiczen | Packet checks · SoC DV | `Data integrity` |
 
 </div>
@@ -417,7 +432,7 @@
 <br/>
 
 > 💬 *Open to Design Verification roles — Bangalore, Hybrid, or Remote.*
-> *Testchip verification · UVM · coverage · GLS, with hands-on hardware emulation. Let's talk on LinkedIn.*
+> *Testchip verification · UVM · coverage · GLS · emulation — plus mentoring juniors and peer knowledge sharing. Let's talk on LinkedIn.*
 
 </div>
 
